@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "GSG",
+      "BCB",
+      "EOE"
+    ],
+    "key": {
+      "G": {
+        "item": "minecraft:gold_ingot"
+      },
+      "S": {
+        "item": "minecraft:skull_pottery_sherd"
+      },
+      "B": {
+        "item": "minecraft:gold_block"
+      },
+      "C": {
+        "item": "nether_remastered:seal_crystal"
+      },
+      "E": {
+        "item": "nether_remastered:bottled_nether_essence"
+      },
+      "O": {
+        "item": "minecraft:crying_obsidian"
+      }
+    },
+    "result": {
+      "id": "nether_remastered:seal_of_the_underworld_item",
+      "count": 1
+    }
+  }

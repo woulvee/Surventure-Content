@@ -1,6 +1,5 @@
-package net.woulvee.questitems;
+package net.woulvee.mcpluscontent;
 
-import net.minecraft.client.Minecraft;
 import net.neoforged.api.distmarker.Dist;
 import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.fml.ModContainer;
@@ -24,8 +23,5 @@ public class QuestItemsClient {
 
     @SubscribeEvent
     static void onClientSetup(FMLClientSetupEvent event) {
-        // Some client setup code
-        QuestItems.LOGGER.info("HELLO FROM CLIENT SETUP");
-        QuestItems.LOGGER.info("MINECRAFT NAME >> {}", Minecraft.getInstance().getUser().getName());
     }
 }
