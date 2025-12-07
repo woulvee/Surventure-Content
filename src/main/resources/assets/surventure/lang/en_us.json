@@ -5,5 +5,5 @@
   "item.surventure.mini_deepdark_portal": "Mini Deep Dark Portal",
   "item.surventure.mini_twilight_portal": "Mini Twilight Portal",
   "item.surventure.twilight_crystal": "Twilight Crystal",
-  "item.surventure.twilight_crystal.description_0": "§8§oRequired for creating the Twilight Portal"
+  "tooltip.surventure.twilight_crystal.description": "§7§oHolds the energy that is required to open the Twilight Portal"
 }

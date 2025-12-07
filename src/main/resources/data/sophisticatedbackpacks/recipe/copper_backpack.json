@@ -1,0 +1,30 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "sophisticatedcore:item_enabled",
+      "itemRegistryName": "sophisticatedbackpacks:copper_backpack"
+    }
+  ],
+  "type": "sophisticatedbackpacks:backpack_upgrade",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "sophisticatedbackpacks:backpack"
+    },
+    "X": {
+      "tag": "c:ingots/copper"
+    },
+    "C": {
+      "item": "minecraft:copper_block"
+    }
+  },
+  "pattern": [
+    "XCX",
+    "CBC",
+    "XCX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "sophisticatedbackpacks:copper_backpack"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " T ",
+    "XEX",
+    " O "
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "X": {
+      "item": "minecraft:gray_dye"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "O": {
+      "item": "minecraft:ominous_trial_key"
+    }
+  },
+  "result": {
+    "id": "endrem:corrupted_eye"
+  }
+}

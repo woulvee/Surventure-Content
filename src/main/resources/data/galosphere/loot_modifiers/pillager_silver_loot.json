@@ -1,0 +1,17 @@
+{
+  "type": "galosphere:pillager_silver_loot",
+  "conditions": [
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "type": "minecraft:pillager"
+      }
+    },
+    {
+      "condition": "minecraft:killed_by_player"
+    }
+  ],
+  "max": 2,
+  "min": 0
+}

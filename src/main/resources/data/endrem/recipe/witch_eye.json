@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " W ",
+    "WEW",
+    " W "
+  ],
+  "key": {
+    "W": {
+      "item": "endrem:witch_pupil"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+    "id": "endrem:witch_eye",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "RER",
+    " Q "
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "E": {
+      "item": "endrem:guardian_eye"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "result": {
+    "id": "upgrade_aquatic:elder_eye"
+  }
+}

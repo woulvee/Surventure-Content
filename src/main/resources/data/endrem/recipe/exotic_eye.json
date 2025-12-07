@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BMF",
+    "GES",
+    "HNT"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bubble_coral"
+    },
+    "M": {
+      "item": "benssharks:megalodon_tooth"
+    },
+    "F": {
+      "item": "minecraft:fire_coral"
+    },
+    "G": {
+      "item": "minecraft:glow_ink_sac"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "S": {
+      "item": "minecraft:ink_sac"
+    },
+    "H": {
+      "item": "minecraft:horn_coral"
+    },
+    "N": {
+      "item": "upgrade_aquatic:thrasher_tooth"
+    },
+    "T": {
+      "item": "minecraft:tube_coral"
+    }
+  },
+  "result": {
+    "id": "endrem:exotic_eye",
+    "count": 1
+  }
+}
