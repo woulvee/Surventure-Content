@@ -4,6 +4,17 @@
   "item.surventure.mini_end_portal": "Mini End Portal",
   "item.surventure.mini_deepdark_portal": "Mini Deep Dark Portal",
   "item.surventure.mini_twilight_portal": "Mini Twilight Portal",
+  "item.surventure.pressed_diamond": "Pressed Diamond",
+  "item.surventure.refined_diamond": "Refined Diamond",
+
+
   "item.surventure.twilight_crystal": "Twilight Crystal",
-  "tooltip.surventure.twilight_crystal.description": "§7§oHolds the energy that is required to open the Twilight Portal"
+  "tooltip.surventure.twilight_crystal.description": "§7§oHolds the energy that is required to open the Twilight Portal§r",
+
+  "item.surventure.twilight_upgrade_smithing_template":"Smithing Template",
+  "item.surventure.smithing_template.twilight_upgrade.applies_to": "Netherite Equipment",
+  "item.surventure.smithing_template.twilight_upgrade.ingredients": "Fiery Ingot",
+  "upgrade.surventure.twilight_upgrade": "Twilight Upgrade",
+  "item.surventure.smithing_template.twilight_upgrade.base_slot_description": "Add Netherite Equipment",
+  "item.surventure.smithing_template.twilight_upgrade.additions_slot_description": "Add Fiery Ingot"
 }

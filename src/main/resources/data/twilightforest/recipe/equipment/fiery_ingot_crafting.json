@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "addition": {
+    "tag": "twilightforest:fiery_vial"
+  },
+  "template": [],
+  "result": {
+    "id": "twilightforest:fiery_ingot",
+    "count": 1
+  }
+}

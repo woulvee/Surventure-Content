@@ -5,5 +5,12 @@
   "item.surventure.mini_deepdark_portal": "Mini Deep Dark Portal",
   "item.surventure.mini_twilight_portal": "Mini Twilight Portal",
   "item.surventure.twilight_crystal": "Twilight Kristall",
-  "tooltip.surventure.twilight_crystal.description": "§7§oBeinhaltet die Energie, die erforderlich ist, um das Twilight Portal zu öffnen"
+  "tooltip.surventure.twilight_crystal.description": "§7§oBeinhaltet die Energie, die erforderlich ist, um das Twilight Portal zu öffnen",
+
+  "item.surventure.twilight_upgrade_smithing_template": "Schmiedevorlage",
+  "item.surventure.smithing_template.twilight_upgrade.applies_to": "Netheriteausrüstung",
+  "item.surventure.smithing_template.twilight_upgrade.ingredients": "Feuriger Barren",
+  "upgrade.surventure.twilight_upgrade": "Twilight Upgrade",
+  "item.surventure.smithing_template.twilight_upgrade.base_slot_description": "Füge Netheriteausrüstung hinzu",
+  "item.surventure.smithing_template.twilight_upgrade.additions_slot_description": "Füge feurigen Barren hinzu"
 }

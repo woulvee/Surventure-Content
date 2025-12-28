@@ -1,25 +1,35 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
   "pattern": [
-    " T ",
-    "XEX",
-    " O "
+    " GGG ",
+    "GCUCG",
+    "GTETG",
+    "GCOCG",
+    " GGG "
   ],
   "key": {
-    "T": {
-      "item": "minecraft:totem_of_undying"
-    },
-    "X": {
+    "G": {
       "item": "minecraft:gray_dye"
+    },
+    "C": {
+      "item": "createdeco:netherite_coin"
+    },
+    "T": {
+      "item": "minecraft:trial_key"
+    },
+    "O": {
+      "item": "minecraft:ominous_trial_key"
     },
     "E": {
       "item": "minecraft:ender_eye"
     },
-    "O": {
-      "item": "minecraft:ominous_trial_key"
+    "U": {
+      "item": "minecraft:totem_of_undying"
     }
   },
   "result": {
     "id": "endrem:corrupted_eye"
-  }
+  },
+  "show_notification": false
 }

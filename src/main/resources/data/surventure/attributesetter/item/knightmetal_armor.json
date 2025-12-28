@@ -1,0 +1,70 @@
+{
+  "minecraft:knightmetal_helmet": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 3,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "value": 1,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "value": 0.025,
+      "operation": "BASE"
+    }
+  ],
+  "minecraft:knightmetal_chestplate": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 8,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "value": 1,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "value": 0.025,
+      "operation": "BASE"
+    }
+  ],
+  "minecraft:knightmetal_leggings": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 6,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "value": 1,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "value": 0.025,
+      "operation": "BASE"
+    }
+  ],
+  "minecraft:knightmetal_boots": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 3,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "value": 1,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "value": 0.025,
+      "operation": "BASE"
+    }
+  ]
+}

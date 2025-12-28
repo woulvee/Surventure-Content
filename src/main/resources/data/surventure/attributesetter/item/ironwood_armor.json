@@ -1,0 +1,90 @@
+{
+  "twilightforest:ironwood_helmet": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 3,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "value": 1,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "value": 0.0,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.luck",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "twilightforest:ironwood_chestplate": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 8,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "value": 1,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "value": 0.0,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.luck",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "twilightforest:ironwood_leggings": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 6,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "value": 1,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "value": 0.0,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.luck",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "twilightforest:ironwood_boots": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 3,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "value": 1,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "value": 0.0,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.luck",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ]
+}

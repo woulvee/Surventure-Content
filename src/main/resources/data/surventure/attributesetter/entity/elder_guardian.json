@@ -1,0 +1,14 @@
+{
+  "minecraft:wither": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": 150,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 12,
+      "operation": "BASE"
+    }
+  ]
+}

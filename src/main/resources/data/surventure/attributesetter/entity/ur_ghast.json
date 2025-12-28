@@ -1,0 +1,14 @@
+{
+  "twilightforest:ur_ghast": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": 350,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 10,
+      "operation": "BASE"
+    }
+  ]
+}

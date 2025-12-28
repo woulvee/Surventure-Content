@@ -1,0 +1,90 @@
+{
+  "twilightforest:arctic_helmet": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 2,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "value": 0.75,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "value": 0.0,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": 4.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "twilightforest:arctic_chestplate": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 8,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "value": 0.75,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "value": 0.0,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": 4.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "twilightforest:arctic_leggings": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 6,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "value": 0.75,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "value": 0.0,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": 4.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "twilightforest:arctic_boots": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 2,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "value": 0.75,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "value": 0.0,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": 4.0,
+      "operation": "ADDITION"
+    }
+  ]
+}

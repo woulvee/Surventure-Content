@@ -1,0 +1,21 @@
+{
+  "minecraft:ender_dragon": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": 400,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 20,
+      "operation": "BASE"
+    }
+  ],
+  "minecraft:dragon_fireball": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 10,
+      "operation": "BASE"
+    }
+  ]
+}

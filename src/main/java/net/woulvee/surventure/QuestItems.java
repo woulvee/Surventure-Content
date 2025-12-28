@@ -1,5 +1,6 @@
 package net.woulvee.surventure;
 
+import net.minecraft.resources.ResourceLocation;
 import net.woulvee.surventure.item.ModItems;
 import org.slf4j.Logger;
 
@@ -57,5 +58,9 @@ public class QuestItems {
     @SubscribeEvent
     public void onServerStarting(ServerStartingEvent event) {
 
+    }
+
+    public static ResourceLocation rl(String path) {
+        return ResourceLocation.fromNamespaceAndPath(MODID, path);
     }
 }

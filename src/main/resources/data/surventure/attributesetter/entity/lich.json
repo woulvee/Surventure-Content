@@ -1,0 +1,40 @@
+{
+  "twilightforest:lich": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": 150,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 10,
+      "operation": "BASE"
+    }
+  ],
+  "twilightforest:loyal_zombie": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": 60,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 12,
+      "operation": "BASE"
+    }
+  ],
+  "twilightforest:lich_bolt": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 10,
+      "operation": "BASE"
+    }
+  ],
+  "twilightforest:lich_bomb": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 6,
+      "operation": "BASE"
+    }
+  ]
+}

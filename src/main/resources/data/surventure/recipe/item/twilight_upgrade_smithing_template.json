@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NSN",
+    "NRN",
+    "NNN"
+  ],
+  "key": {
+    "N": {
+      "item": "twilightforest:liveroot"
+    },
+    "S": {
+      "item": "surventure:twilight_upgrade_smithing_template"
+    },
+    "R": {
+      "item": "twilightforest:exanimate_essence"
+    }
+  },
+  "result": {
+    "id": "surventure:twilight_upgrade_smithing_template",
+    "count": 2
+  }
+}

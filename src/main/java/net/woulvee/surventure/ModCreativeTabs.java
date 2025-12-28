@@ -25,6 +25,9 @@ public class ModCreativeTabs {
                         output.accept(ModItems.DEEPDARK);
                         output.accept(ModItems.TWILIGHT);
                         output.accept(ModItems.TWILIGHT_CRYSTAL);
+                        output.accept(ModItems.TWILIGHT_UPGRADE_SMITHING_TEMPLATE);
+                        output.accept(ModItems.PRESSED_DIAMOND);
+                        output.accept(ModItems.REFINED_DIAMOND);
                     })
                     .build());
 

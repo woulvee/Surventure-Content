@@ -1,0 +1,21 @@
+{
+  "twilightforest:hydra": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": 450,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 25,
+      "operation": "BASE"
+    }
+  ],
+  "twilightforest:hydra_mortar": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 25,
+      "operation": "BASE"
+    }
+  ]
+}

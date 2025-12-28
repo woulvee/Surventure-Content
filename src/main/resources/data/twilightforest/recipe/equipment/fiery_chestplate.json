@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:netherite_chestplate"
+  },
+  "addition": {
+    "item": "twilightforest:fiery_ingot"
+  },
+  "template": {
+    "item": "surventure:twilight_upgrade_smithing_template"
+  },
+  "result": {
+    "id": "twilightforest:fiery_chestplate",
+    "count": 1
+  }
+}

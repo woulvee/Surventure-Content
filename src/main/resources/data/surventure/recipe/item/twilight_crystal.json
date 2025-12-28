@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "accept_mirrored": false,
+  "pattern": [
+    "  S  ",
+    "SCBCS",
+    " BEB ",
+    "SCNCS",
+    "  S  "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "B": {
+      "item": "minecraft:amethyst_block"
+    },
+    "E": {
+      "item": "minecraft:dragon_egg"
+    },
+    "C": {
+      "item": "deeperdarker:reinforced_echo_shard"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    }
+  },
+    "result": {
+      "id": "surventure:twilight_crystal"
+    },
+    "show_notification": false
+  }

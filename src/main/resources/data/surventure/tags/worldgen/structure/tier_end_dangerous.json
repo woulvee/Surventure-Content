@@ -1,0 +1,24 @@
+{
+  "values": [
+    {
+      "id": "minecraft:end_city",
+      "required": false
+    },
+    {
+      "id": "unusualend:ancient_end_tower",
+      "required": false
+    },
+    {
+      "id": "unusualend:warped_flying_end_ship",
+      "required": false
+    },
+    {
+      "id": "unusualend:flying_end_ship",
+      "required": false
+    },
+    {
+      "id": "unusualend:warped_station",
+      "required": false
+    }
+  ]
+}

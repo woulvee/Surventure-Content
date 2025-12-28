@@ -1,0 +1,14 @@
+{
+  "twilightforest:giant_miner": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": 160,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 8,
+      "operation": "BASE"
+    }
+  ]
+}

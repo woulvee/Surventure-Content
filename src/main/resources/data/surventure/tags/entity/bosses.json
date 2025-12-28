@@ -1,0 +1,29 @@
+{
+  "values": [
+    "minecraft:wither",
+    "minecraft:wither_skull",
+    "minecraft:warden",
+    "minecraft:ender_dragon",
+    "minecraft:dragon_fireball",
+    "minecraft:elder_guardian",
+    "block_factorys_bosses:infernal_dragon",
+    "block_factorys_bosses:sandworm",
+    "block_factorys_bosses:underworld_knight",
+    "luminous_nether:basalt_executioner",
+    "luminous_nether:piglin_executioner",
+    "twilightforest:naga",
+    "twilightforest:lich",
+    "twilightforest:loyal_zombie",
+    "twilightforest:alpha_yeti",
+    "twilightforest:snow_queen",
+    "twilightforest:knight_phantom",
+    "twilightforest:ur_ghast",
+    "twilightforest:minoshroom",
+    "twilightforest:hydra",
+    "twilightforest:giant_miner",
+    "illagerinvasion:invoker",
+    "mowziesmobs:wroughtnaut",
+    "mowziesmobs:frostmaw",
+    "unusualend:endstone_golem"
+  ]
+}

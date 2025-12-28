@@ -1,0 +1,30 @@
+{
+  "galosphere:sterling_helmet": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 2,
+      "operation": "BASE"
+    }
+  ],
+  "galosphere:sterling_chestplate": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 5,
+      "operation": "BASE"
+    }
+  ],
+  "galosphere:sterling_leggings": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 5,
+      "operation": "BASE"
+    }
+  ],
+  "galosphere:sterling_boots": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 2,
+      "operation": "BASE"
+    }
+  ]
+}

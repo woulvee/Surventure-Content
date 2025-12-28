@@ -1,0 +1,90 @@
+{
+  "twilightforest:fiery_helmet": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 4,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "value": 3.5,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "value": 0.075,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.burning_time",
+      "value": -0.25,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "twilightforest:fiery_chestplate": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 9,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "value": 3.5,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "value": 0.075,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.burning_time",
+      "value": -0.25,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "twilightforest:fiery_leggings": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 7,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "value": 3.5,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "value": 0.075,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.burning_time",
+      "value": -0.25,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "twilightforest:fiery_boots": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 4,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "value": 3.5,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "value": 0.075,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.burning_time",
+      "value": -0.25,
+      "operation": "MULTIPLY_BASE"
+    }
+  ]
+}
