@@ -1,0 +1,15 @@
+{
+  "block.wildernature.bison_trophy": "Europäisches Bison Jagdtrophäe",
+  "compendium.wildernature.page5_bison": "Europäisches Bison",
+  "contract.wildernature.tier2_bison.desc": "§6Jage 25 europäische Bison",
+  "contract.wildernature.tier3_bison.desc": "§Jage 100 europäische Bison",
+  "entity.wildernature.bison": "Europäisches Bison",
+  "item.wildernature.bison_spawn_egg": "Europäisches-Bison-Spawn-Ei",
+  "subtitles.wildernature.bison_ambient": "Europäisches Bison brüllt",
+  "subtitles.wildernature.bison_angry": "Europäisches Bison brüllt wütend",
+  "subtitles.wildernature.bison_death": "Europäisches Bison stirbt",
+  "subtitles.wildernature.bison_hurt": "Europäisches Bison stöhnt",
+  "text.autoconfig.wildernature.option.BisonMaxGroupSize": "Europäisches Bison Maximale Gruppengröße:",
+  "text.autoconfig.wildernature.option.BisonMinGroupSize": "Europäisches Bison Minimale Gruppengröße:",
+  "text.autoconfig.wildernature.option.BisonSpawnWeight": "Europäisches Bison Spawn Gewichtung:"
+}

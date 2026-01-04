@@ -1,0 +1,9 @@
+{
+  "block_factorys_bosses:knight_sword": [
+    {
+      "attribute": "minecraft:player.entity_interaction_range",
+      "value": 1.5,
+      "operation": "ADDITION"
+    }
+  ]
+}

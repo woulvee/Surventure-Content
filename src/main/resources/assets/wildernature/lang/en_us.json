@@ -1,0 +1,15 @@
+{
+  "block.wildernature.bison_trophy": "Bison Trophy",
+  "compendium.wildernature.page5_bison": "European Bison",
+  "contract.wildernature.tier2_bison.desc": "§6Hunt 25 European Bison",
+  "contract.wildernature.tier3_bison.desc": "§6Hunt 100 European Bison",
+  "entity.wildernature.bison": "European Bison",
+  "item.wildernature.bison_spawn_egg": "European Bison Spawn Egg",
+  "subtitles.wildernature.bison_ambient": "European Bison bellows",
+  "subtitles.wildernature.bison_angry": "European Bison bellows angrily",
+  "subtitles.wildernature.bison_death": "European Bison dies",
+  "subtitles.wildernature.bison_hurt": "European Bison groans",
+  "text.autoconfig.wildernature.option.BisonMaxGroupSize": "European Bison Max Group Size:",
+  "text.autoconfig.wildernature.option.BisonMinGroupSize": "European Bison Min Group Size:",
+  "text.autoconfig.wildernature.option.BisonSpawnWeight": "European Bison Spawn Weight:"
+}

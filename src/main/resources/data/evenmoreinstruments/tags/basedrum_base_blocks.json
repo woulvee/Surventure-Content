@@ -1,0 +1,11 @@
+{
+  "values": [
+    "minecraft:stone",
+    "minecraft:blackstone",
+    "minecraft:netherrack",
+    "minecraft:sandstone",
+    "minecraft:quartz_block",
+    "minecraft:obsidian",
+    "minecraft:bricks"
+  ]
+}

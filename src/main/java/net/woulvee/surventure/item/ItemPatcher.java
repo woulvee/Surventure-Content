@@ -64,6 +64,8 @@ public class ItemPatcher {
 
     static final ResourceLocation sonorous = ResourceLocation.fromNamespaceAndPath("deeperdarker", "sonorous_staff");
 
+    static final ResourceLocation knight = ResourceLocation.fromNamespaceAndPath("block_factorys_bosses", "knight_sword");
+
 
     @net.neoforged.bus.api.SubscribeEvent
     public static void modifyComponents(ModifyDefaultComponentsEvent event) {
@@ -112,6 +114,8 @@ public class ItemPatcher {
 
         setDurability(event, blunderbuss, 32);
         setDurability(event, sonorous, 10);
+
+        setToolBase(event, slSword, 18, 1.1, 3189);
     }
 
     private static void setDurability(ModifyDefaultComponentsEvent event, ResourceLocation id, int maxDamage){

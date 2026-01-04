@@ -63,6 +63,11 @@
       "attribute": "minecraft:generic.burning_time",
       "value": -0.25,
       "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.025,
+      "operation": "ADDITION"
     }
   ],
   "twilightforest:fiery_boots": [

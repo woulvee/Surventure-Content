@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.woulvee.surventure.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "BedExplosionMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
