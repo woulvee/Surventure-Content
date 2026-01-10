@@ -4,7 +4,8 @@
   "package": "net.woulvee.surventure.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
-    "BedExplosionMixin"
+    "BedExplosionMixin",
+    "HammerNoNetherrackMixin"
   ],
   "injectors": {
     "defaultRequire": 1
